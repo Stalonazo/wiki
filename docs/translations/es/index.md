@@ -15,7 +15,6 @@ Desafortunadamente, la wiki de SA:MP fue cerrada en fines de septiembre (aunque 
 
 Si estás interesado, mira este link para obtener instrucciones de como convertir contenido: https://github.com/openmultiplayer/wiki/issues/27#issuecomment-699635305
 
-If you're not experienced with using GitHub or converting HTML, don't worry! You can help by just letting us know about issues (via Discord, Burgershot or social media) and the most important thing: _spreading the word!_ So be sure to bookmark this site and share it with anyone you know who's wondering where the SA-MP Wiki went.
 Si no tienes experiencia utilizando GitHub o convirtiendo HTML, ¡no te preocupes! Puedes ayudar con solo avisarnos acerca de problemas (mediante Discord, el foro de Burgershot u otras redes sociales) y lo más importante: _¡Difundir este sitio!_, así que asegúrate de agregar este sitio a tus marcadores y compartirlo con cualquiera que conozcas y sepas que precisa la ya inexistente wiki de SA:MP.
 
 Sean bienvenidas las contribuciones y mejoras a la documentación al igual que los tutoriales o guías para tareas comunes como crear modos de juego (gamemodes) simples y el uso de librerías y plugins comunes. Si estás interesado en contribuir entonces dirígete a la [página de GitHub](https://github.com/openmultiplayer/wiki).
